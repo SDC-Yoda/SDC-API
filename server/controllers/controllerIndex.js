@@ -1,2 +1,2 @@
-exports.products = require('./products.js');
-exports.qna = require('./qna.js');
+module.exports.products = require('./products.js');
+module.exports.qna = require('./qna.js');
